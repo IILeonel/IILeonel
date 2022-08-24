@@ -1,9 +1,7 @@
 ### Olá! Eu sou o Ithalo 
 
 - 🔭 Atualmente trabalho como estagiario em Engenharia de dados
-- 🌱 Estudando Python e Machine Leraning
-- 📫 Podemos conversar atraves do email: ithaloleonel.data@gmail.com
-
+##
 <div align="center">
   <a href="https://github.com/IILeonel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IILeonel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
