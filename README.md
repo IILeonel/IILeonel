@@ -23,11 +23,15 @@
   <img align="center" alt="ithalo-jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
   <img align="center" alt="ithalo-numpy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
   <img align="center" alt="ithalo-pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"/>
+  <img align="center" alt="ithalo-skl" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+  <img align="center" alt="ithalo-pytorch" height="40" width="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"/>
   <img align="center" alt="ithalo-git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
   <img align="center" alt="ithalo-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="ithalo-sqlserver" height="40" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
   <img align="center" alt+ "ithalo-mongo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
   <img align="center" alt="ithalo-aws" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+  <img align="center" alt="ithalo-skl" height="40" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
+
  
 </div>
 
