@@ -1,26 +1,40 @@
-### Olá! Eu sou o Ithalo 
+<h1 align="center">Olá!👋, Eu sou o Ithalo</h1>
 
-- 🔭 Atualmente trabalho como estagiario em Engenharia de dados
+- 👨‍🚀 Currently working as an intern in Data Engineering
+- 🔥 Interested in subjects: **Data Engineering** and **Data Science**
+
+**Woroking** 
+- 🎲 I use daily: <code>.py</code>, <code>.sql</code>
+- 🎲 My currently Stack: <code> AWS Glue, AWS S3, PySpark, AWS QuickSight, AWS EC2, AWS Athena, AWS EMR, AWS Redshift.</code>
+- 🎲 And Learning every day about **Data**
+
+**Community**
+- 📖 Sometimes I write articles on https://ileonel.medium.com/
 ##
 <div align="center">
   <a href="https://github.com/IILeonel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IILeonel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IILeonel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="ithalo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="ithalo-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="ithalo-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-  <img align="center" alt="ithalo-jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
-  <img align="center" alt="ithalo-numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+  <img align="center" alt="ithalo-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ithalo-jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
+  <img align="center" alt="ithalo-numpy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+  <img align="center" alt="ithalo-pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"/>
+  <img align="center" alt="ithalo-git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+  <img align="center" alt="ithalo-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="ithalo-sqlserver" height="40" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
+  <img align="center" alt+ "ithalo-mongo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
+  <img align="center" alt="ithalo-aws" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+ 
 </div>
 
 ##
 
 <div> 
+<h3 align="left">How to reach me: </h3>
   <a href = "mailto:ithaloleonel.data@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ileonel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
