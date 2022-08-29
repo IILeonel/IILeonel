@@ -1,11 +1,14 @@
 <h1 align="center">Hey👋, I'm Ithalo</h1>
 
 - 👨‍🚀 Currently working as an intern in Data Engineering
+
 - 🔥 Interested in subjects: **Data Engineering** and **Data Science**
 
 **Woroking** 
 - 🎲 I use daily: <code>.py</code>, <code>.sql</code>
+
 - 🎲 My currently Stack: <code> AWS Glue, AWS S3, PySpark, AWS QuickSight, AWS EC2, AWS Athena, AWS EMR, AWS Redshift.</code>
+
 - 🎲 And Learning every day about **Data**
 
 **Community**
