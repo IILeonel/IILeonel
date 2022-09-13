@@ -2,7 +2,7 @@
 
 - 👨‍🚀 Currently working as an intern in Data Engineering
 
-- 🔥 Interested in subjects: **Data Engineering** and **Data Science**
+- 🔥 Interested in subjects: **Data Engineering**, **Data Science** and **Data Analysis**
 
 **Woroking** 
 - 🎲 I use daily: <code>.py</code>, <code>.sql</code>
