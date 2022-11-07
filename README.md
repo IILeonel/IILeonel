@@ -35,7 +35,7 @@
   <img align="center" alt+ "ithalo-mongo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
   <img align="center" alt="ithalo-aws" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
   <img align="center" alt="ithalo-skl" height="40" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
-
+  <img align="center" alt="ithalo-linux" height="40" width="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/>
  
 </div>
 
