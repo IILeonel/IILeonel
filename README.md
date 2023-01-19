@@ -1,6 +1,5 @@
 <h1 align="center">Hey👋, I'm Ithalo</h1>
 
-- 👨‍🚀 Currently working as an intern in Data Engineering
 
 - 🔥 Interested in subjects: **Data Engineering**, **Data Science** and **Data Analysis**
 
