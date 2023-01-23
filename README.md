@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋, I'm Ithalo</h1>
 
 
-- 🔥 Interested in subjects: **Data Engineering**, **Data Science** and **Data Analysis**
+- 🔥 Interested in subjects: **Data Science** and **Data Analysis**
 
 **Woroking** 
 - 🎲 I use daily: <code>.py</code>, <code>.sql</code>
